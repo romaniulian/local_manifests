@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project name="romaniulian/potato_device_oneplus_guacamole" path="device/oneplus/guacamole" remote="github" revision="master"/>
+<project name="romaniulian/potato_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="master"/>
+<project name="AOSiP-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="ten"/>
+<project name="PotatoDevices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="croquette-release"/>
+<project name="AOSiP-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="ten"/>
+
+
+</manifest>
