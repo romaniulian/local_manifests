@@ -6,6 +6,8 @@
 <project name="AOSiP-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="ten"/>
 <project name="AOSIP-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="ten"/>
 <project name="AOSiP-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="ten"/>
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.1"/>
+
 
 
 </manifest>
