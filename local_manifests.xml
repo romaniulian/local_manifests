@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote name="gitlab-pe"
-          fetch="https://gitlab.com/PixelExperience/" />
 
-<project name="romaniulian/device_oneplus_guacamole-1" path="device/oneplus/guacamole" remote="github" revision="ten"/>
-<project name="romaniulian/device_oneplus_sm8150-common-1" path="device/oneplus/sm8150-common" remote="github" revision="ten"/>
-<project name="RaphielGang/android_kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="custom"/>
-<project name="LineageOS/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="lineage-17.1"/>
-<project name="PixelExperience-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="ten"/>
-<project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" revision="master"/>
-<project name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" path="vendor/nxp/opensource/interfaces/nfc" remote="github" revision="lineage-17.1"/>
-<project name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" path="vendor/nxp/opensource/commonsys/external/libnfc-nci" remote="github" revision="lineage-17.1"/>
-<project name="LineageOS/android_vendor_nxp_opensource_frameworks" path="vendor/nxp/opensource/commonsys/frameworks" remote="github" revision="lineage-17.1"/>
-<project name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" remote="github" revision="lineage-17.1"/>
-<project name="LineageOS/android_vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/sn100x/halimpl" remote="github" revision="lineage-17.1-sn100x"/>
-<project name="LineageOS/android_vendor_nxp_opensource_hidlimpl" path="vendor/nxp/opensource/sn100x/hidlimpl" remote="github" revision="lineage-17.1-sn100x"/>
-<project name="packages_apps_PixelLiveWallpaper" path="packages/apps/PixelLiveWallpaper" remote="gitlab-pe" revision="ten"/>
+<project name="romaniulian/device_oneplus_guacamole" path="device/oneplus/guacamole" remote="github" revision="master"/>
+<project name="romaniulian/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="master"/>
+<project name="AOSiP-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="ten"/>
+<project name="AOSIP-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="ten"/>
+<project name="AOSiP-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="ten"/>
+
 
 </manifest>
