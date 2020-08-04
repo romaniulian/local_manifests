@@ -5,6 +5,7 @@
 <project name="romaniulian/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="ten"/>
 <project name="AOSiP-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="ten"/>
 <project name="AOSiP-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="ten"/>
-<project name="AOSiP-Devices/vendor_oneplus" path="vendor_oneplus" remote="github" revision="ten"/>
+<project name="AOSiP-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="ten"/>
+<project name="AOSiP/platform_prebuilts_clang_host_linux-x86" path="prebuilts/clang/host/linux-x86" remote="github" revision="ten"/>
 
 </manifest>
