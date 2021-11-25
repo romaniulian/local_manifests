@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-<project name="romaniulian/device_oneplus_guacamole" path="device/oneplus/guacamole" remote="github" revision="eleven"/>
-<project name="romaniulian/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="eleven"/>
-<project name="yaap/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="eleven"/>
-<project name="yaap/device_oneplus_common" path="device/oneplus/common" remote="github" revision="eleven"/>
-<project name="yaap/vendor_oneplus" path="vendor/oneplus" remote="github" revision="eleven"/>
-
+  <project path="device/oneplus/guacamole" remote="yaap" name="device_oneplus_guacamole" revision="twelve" />
+  <project path="device/oneplus/sm8150-common" remote="yaap" name="device_oneplus_sm8150-common" revision="twelve" />
+  <project path="kernel/oneplus/sm8150" remote="yaap" name="kernel_oneplus_sm8150" revision="twelve" />
+  <project path="device/oneplus/common" remote="yaap" name="device_oneplus_common" revision="eleven" />
+  <project path="vendor/oneplus" remote="yaap" name="vendor_oneplus" revision="twelve" />
+  <project name="yaap/hardware_oneplus" path="hardware/oneplus" remote="github" revision="twelve"/>
 </manifest>
